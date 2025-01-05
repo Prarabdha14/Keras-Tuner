@@ -1,2 +1,7 @@
-# Keras-Tuner
-Keras Tuner is an open-source library for optimizing the hyperparameters of machine learning models built with Keras. It simplifies the process of finding the best set of hyperparameters by providing a robust and flexible framework for hyperparameter tuning.
+Features
+
+Easy Integration: Seamlessly integrates with Keras models.
+Search Algorithms: Supports random search, Bayesian optimization, Hyperband, and custom search algorithms.
+Scalable: Works with local CPUs, GPUs, and distributed setups.
+Customizable: Allows fine-tuning and customization of search space, objectives, and more.
+User-Friendly: Simple and intuitive API designed for developers and researchers.
